@@ -1,0 +1,13 @@
+{
+  "name": "Gymrat Helper",
+  "slug": "gymrat-helper",
+  "version": "0.1.0",
+  "author": "0x94t3z",
+  "description": "Instruction-based AI skill for analyzing gym training, nutrition, and recovery.",
+  "tags": [
+    "fitness",
+    "gym",
+    "training",
+    "nutrition"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+    "name": "gymrat-helper",
+    "version": "0.1.0",
+    "description": "Turn gym and diet notes into structured training analysis and actionable next steps.",
+    "author": "0x94t3z",
+    "tags": [
+        "fitness",
+        "gym",
+        "training",
+        "nutrition"
+    ]
+}
