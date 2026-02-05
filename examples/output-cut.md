@@ -1,3 +1,4 @@
+```text
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🏋️ Fat Loss While Preserving Strength — 2026-02-06
 Stats: Height 170cm | Weight 86kg | Training 4x/week
@@ -37,3 +38,5 @@ Proceed?
 - start
 - adjust
 - skip
+
+```
